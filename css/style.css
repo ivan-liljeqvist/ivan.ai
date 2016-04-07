@@ -13,8 +13,8 @@ a:hover{
 
 .terminal-window {
   text-align: left;
-  width: 600px;
-  height: 360px;
+  width: 70%;
+  height: 560px;
   border-radius: 10px;
   margin: auto;
   position: relative;
@@ -50,7 +50,7 @@ a:hover{
 .terminal-window section.terminal {
   color: white;
   font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
-  font-size: 11pt;
+  font-size: 16pt;
   background: #30353A;
   padding: 10px;
   box-sizing: border-box;
